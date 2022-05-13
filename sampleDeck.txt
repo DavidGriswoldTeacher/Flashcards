@@ -1,0 +1,11 @@
+abstraction
+The process of simplifying complicated ideas to the minimum we need to know to be able to use them.
+Examples of abstraction include a map, which is an abstraction of the geography of the real world.
+
+hardware
+The physical parts of a computer
+Examples include hard disks, CPUs, and RAM
+
+Types of memory
+Primary - RAM, ROM, Cache, CPU Registers
+Secondary - Hard disks, cd roms, floppy drives, flash drives, etc.
